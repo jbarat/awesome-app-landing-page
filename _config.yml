@@ -80,7 +80,7 @@ device: iphone-se-space-gray-vertical # REQUIRED
 #
 # Theme Settings
 #
-background_color: "#60ad5e" # Optional
+background_color: black # Optional
 background_image: /images/backgrounds/gardening.jpg # Optional - Use Relative path e.g. images/backgrounds/image.jpg
 text_color: white # Optional
 link_color: # Optional
