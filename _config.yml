@@ -85,7 +85,7 @@ background_image: /images/backgrounds/gardening.jpg # Optional - Use Relative pa
 text_color: white # Optional
 link_color: # Optional
 social_link_color: white # Optional
-download_button_background_color: "#0191FF" # Optional
+download_button_background_color: "#095907" # Optional
 download_button_text_color: white; # Optional
 
 #
